@@ -42,7 +42,7 @@ function onPlayerStateChange(event) {
 
 }
 
-$(function() {
+$(function($) {
 
     $('[data-play]').on('click', function() {
 
